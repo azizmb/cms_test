@@ -1,0 +1,4 @@
+cmsplugin-filer==0.9.5
+django-cms==2.4.2
+django-filer==0.9.5
+djangocms-text-ckeditor==1.0.10
