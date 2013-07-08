@@ -1,0 +1,45 @@
+*.py[co]
+.DS_Store
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Mr Developer
+.mr.developer.cfg
+
+# vim swp files
+*.swp
+*.swo
+*.vagrant
+vm/download_cache
+
+# local settings
+local_settings.py
+
+# static root
+/static/
+
+# sass cache
+.sass-cache
+
+# media
+/media/
+
+*~
